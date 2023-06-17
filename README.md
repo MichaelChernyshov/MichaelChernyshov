@@ -33,10 +33,8 @@
   <img alt="Vuetify Logo" height="43" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
 </div>
 
-* <div>
-    <h4><bold>Learning:</bold></h4>
+### 🌱 I'm currently learning:
   <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-</div>
 
 ### Where to find me:
 <p>
