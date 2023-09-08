@@ -11,6 +11,14 @@
     - **Watch films 🍿**
     - **Play computer games 👨‍💻**
     - **Learn languages 🔠**
+ 
+Projects: 
+
+[AMC-Bank VueJs](https://amc-bank.netlify.app/)
+
+[Expenses ReactJs](https://cosmic-palmier-bd3854.netlify.app/)
+
+
 
 ### ⚡️ Technologies I'm using:
 * <div>
