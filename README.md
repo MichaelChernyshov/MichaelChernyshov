@@ -43,9 +43,7 @@ Projects:
 </div>
 
 ### 🌱 I'm currently learning:
-  - React Redux
-  - TypeScript
-  - NextJs
+  - iOS Development. SwiftUI
 
 ### Where to find me:
 <p>
