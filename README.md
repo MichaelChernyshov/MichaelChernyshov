@@ -7,11 +7,12 @@ I have **work expierence in IT, in big companies as Desktop Engineer**
 
 ## 🚀 Skills and Technologies
 ### :iphone: iOS Dev
-   - **Languages:** Swift
-   - **Frameworks:** SwiftUI, SwiftData, Combine, Swift Charts, CoreData, MapKit
-   - **Tools:** Xcode, Git, Swift Package Manager, GCD, User Defaults
-   - **Networking:** REST API, Async Await, Networking Layer, Firebase
-   - **Architectures:** MVVM
+- **Languages:** Swift
+- **Frameworks:** SwiftUI, SwiftData, Combine, Swift Charts, CoreData, MapKit
+- **Tools:** Xcode, Git, Swift Package Manager, GCD, User Defaults
+- **Networking:** REST API, URLSession, Async Await, Networking Layer, Firebase
+- **Architectures:** MVVM
+- **UI/UX:** Figma
 
 ### 💻 Web Dev
    - **Languages:** HTML, CSS, JavaScript
