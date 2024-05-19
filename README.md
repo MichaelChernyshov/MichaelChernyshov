@@ -1,52 +1,65 @@
-# ***Hi there 👋***
+# Hi there, I'm Mikhail Chernyshov 👋
 
-### :man_technologist: Who am I ?<br>
+### 🙋‍♂️ About me
 
-* 🙋‍♂️ My name is: **Mikhail Chernyshov**
-* 😄 Pronouns: **he/him**
-* 💻 What I'm doing: **I'm Frontend Developer**
-* 🔠 Languages I speak: **🇬🇧 English 🇷🇺 Russian 🇪🇦 Spanish**
-* ⚡️ My hobbies:
-    - **Listen to music 🎧**
-    - **Watch films 🍿**
-    - **Play computer games 👨‍💻**
-    - **Learn languages 🔠**
+I'm an **iOS developer** with expierence in **Web Developement**. Passionate about development and Apple's ecosystem.    
+I have **work expierence in IT, in big companies as Desktop Engineer**
+
+## 🚀 Skills and Technologies
+### :iphone: iOS Dev
+   - **Languages:** Swift
+   - **Frameworks:** SwiftUI, SwiftData, Combine, Swift Charts, CoreData, MapKit
+   - **Tools:** Xcode, Git, Swift Package Manager, GCD, User Defaults
+   - **Networking:** REST API, Async Await, Networking Layer, Firebase
+   - **Architectures:** MVVM
+
+### 💻 Web Dev
+   - **Languages:** HTML, CSS, JavaScript
+   - **Frameworks:** React.Js, Vue.js, Next.Js
+   - **Tools:** SCSS/SASS, Vite, NPM, Yarn, React Router, Vee-validate, Vue-router, 
+   - **Networking:** REST API, Async Await, Axios, Firebase
+   - **UI/UX:** Tailwind CSS, Material-UI, NextUI, Vuetify
+
+## 🌟 Made projects
+While doing courses, were done few projects where were obtained the most usefull skills
+### MapApp
+<div>
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/279f36d3-329d-42d3-905c-2ab00503d14a"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/35fc2236-938a-4f16-ad1a-f20ff17aea01"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/0203062d-5720-444d-a3ca-9c49bf438655"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/78a3602f-08be-4a75-b4ff-0fb99101724a">    
+</div>
+<div>
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/b62ee811-720c-4cac-a126-29f60cdbf9af"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/997d7dea-2f87-42c6-aea4-84970731ce35"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/5cb652bd-afe4-4bc0-9036-ad422a372149"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/7b77562f-5f3e-4a0d-a80d-e80951190abc"> 
+</div>
+
+### CryptoTracker
+<div>
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/76c7dc45-87c3-4f50-a780-8a00540d3718"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/6e74f3c4-11f5-4062-8e59-214e910b88c8"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/9bb1bfc1-231c-4760-82c0-bd8ad03be0a6"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/3c6cb4ec-5f0a-45a0-a7e2-f47ed63f62df">    
+</div>
+
+<div>
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/32f59024-257a-443a-9423-6b7c6b9072b3"> 
+<img height="400" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/3504f926-2cc9-4cf7-a3e4-b50bb613782f"> 
+</div>
+
+## 📚 Courses and certifications
+- [Intermediate iOS Development](https://www.swiftful-thinking.com/)
+  - Issued: May 2024
+- [100 Days of SwiftUI]()
+  - Issued: January 2024
+- [Refugees Code](https://madridforrefugees.org/)
+  - Issued: May 2023
+- [iOS & Swift Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=LEADERSALE24A)
+  - Issued: January 2022
  
-Projects: 
-
-[AMC-Bank VueJs](https://amc-bank.netlify.app/)
-
-[Expenses ReactJs](https://cosmic-palmier-bd3854.netlify.app/)
-
-
-
-### ⚡️ Technologies I'm using:
-* <div>
-  <h4 display="inline"><bold>Common:</bold></h4>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png">
-  <img height="40" src="https://vitejs.dev/logo.svg" alt="Vite logo">
-  <img height="40" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Vite logo">
-</div>
-
-* <div>
-  <h4><bold>Frontend:</bold></h4>
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> 
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png">
-  <img alt="Vuetify Logo" height="43" src="https://cdn.vuetifyjs.com/images/logos/logo.svg">
-  <img height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
-</div>
-
-### 🌱 I'm currently learning:
-  - iOS Development. SwiftUI
-
-### Where to find me:
-<p>
-  <a href="https://www.linkedin.com/in/chernyshov-mikhail-al/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="https://www.instagram.com/michael.chernyshov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+## 🌐 Connect with Me
+- Email: [chernyshov.michaele@icloud.com](mailto:chernyshov.michaele@icloud.com)
+- LinkedIn: [Mikhail Chernyshov](https://www.linkedin.com/in/chernyshov-mikhail/)
+- Instagram: [@michael.chernyshov](https://www.instagram.com/michael.chernyshov/)
