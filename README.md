@@ -1,4 +1,4 @@
-<img height="260" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/e4302bd7-c766-4529-b34d-bc7fc755827a">
+<img height="200" src="https://github.com/MichaelChernyshov/MichaelChernyshov/assets/92511854/e4302bd7-c766-4529-b34d-bc7fc755827a">
 
 # Hi there, I'm Mikhail Chernyshov 👋
 
